@@ -1,0 +1,7 @@
+.slider-img {
+    filter: brightness(50%);
+}
+
+.carousel-inner {
+    height: 25%;
+}
